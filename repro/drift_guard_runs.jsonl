@@ -1,0 +1,6 @@
+
+{"all_pass": true, "gates": {"AHY_G1": "PASS", "AHY_G2": "PASS", "AHY_G3": "PASS", "AHY_G4": "PASS", "AHY_G5": "PASS", "AHY_G6": "PASS", "AHY_GM": "PASS"}, "strict_margin": 0.8032128514056224, "timestamp_utc": "2026-03-13T03:57:10+00:00"}
+{"all_pass": true, "gates": {"AHY_G1": "PASS", "AHY_G2": "PASS", "AHY_G3": "PASS", "AHY_G4": "PASS", "AHY_G5": "PASS", "AHY_G6": "PASS", "AHY_GM": "PASS"}, "strict_margin": 0.8032128514056224, "timestamp_utc": "2026-03-13T03:58:06+00:00"}
+{"all_pass": true, "gates": {"AHY_G1": "PASS", "AHY_G2": "PASS", "AHY_G3": "PASS", "AHY_G4": "PASS", "AHY_G5": "PASS", "AHY_G6": "PASS", "AHY_GM": "PASS"}, "strict_margin": 0.8032128514056224, "timestamp_utc": "2026-03-13T03:58:50+00:00"}
+{"all_pass": true, "gates": {"ARE_G1": "PASS", "ARE_G2": "PASS", "ARE_G3": "PASS", "ARE_G4": "PASS", "ARE_G5": "PASS", "ARE_G6": "PASS", "ARE_GM": "PASS"}, "strict_margin": 0.8038585209003215, "timestamp_utc": "2026-03-13T05:04:38+00:00"}
+{"all_pass": true, "gates": {"ARP_G1": "PASS", "ARP_G2": "PASS", "ARP_G3": "PASS", "ARP_G4": "PASS", "ARP_G5": "PASS", "ARP_G6": "PASS", "ARP_GM": "PASS"}, "strict_margin": 0.8038585209003215, "timestamp_utc": "2026-03-13T05:26:47+00:00"}

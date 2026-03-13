@@ -1,0 +1,22 @@
+title: "Anabelian Reconstruction Program via Multi-Fundamental-Group Persistence"
+message: "If you use this workspace, cite the manuscript and theorem notes."
+type: software
+authors:
+  - name: "HautevilleHouse"
+date-released: 2026-03-05
+repository-code: "https://github.com/HautevilleHouse/anabelian-reconstruction-program-canonical-lane"
+url: "https://github.com/HautevilleHouse/anabelian-reconstruction-program-canonical-lane"
+license: None
+keywords:
+  - anabelian-geometry
+  - reconstruction
+  - etale-fundamental-group
+  - arithmetic-geometry
+  - local-to-global
+  - reproducibility
+preferred-citation:
+  type: article
+  title: "Anabelian Reconstruction Program via Multi-Fundamental-Group Persistence"
+  authors:
+    - name: "HautevilleHouse"
+  date: 2026-03-05
