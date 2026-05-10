@@ -1,6 +1,4 @@
 {
-  "schema_version": "2026-03-05",
-  "generated_utc": "2026-03-13T05:26:47Z",
   "files": [
     {
       "path": "README.md",
@@ -48,7 +46,7 @@
     },
     {
       "path": "notes/GEOMETRIC_GALOIS_BRIDGE.md",
-      "sha256": "6c02898ccf74234a2e239e83a017570cbde6bfb4baae219939c414fb5960717e"
+      "sha256": "c51e98cf4cf965835c3075495dc094736fdb5d42329ec0f99c2de741663ea0eb"
     },
     {
       "path": "scripts/arp_closure_guard.py",
@@ -56,15 +54,15 @@
     },
     {
       "path": "scripts/extract_constants.py",
-      "sha256": "61775512903af1abf2a430f74f06797352ca655833bd69fe66b2d89b8c261b6e"
+      "sha256": "730d57dae3fac057e19630db34233183cae269568d43118c943387970081896d"
     },
     {
       "path": "scripts/promote_constants.py",
-      "sha256": "c13fe0f68b0737a319c9feff0e196108b9a49d8acc5ad817f8ae62597c8bc13c"
+      "sha256": "b65eb7a60552c668f04d6331a5256fe4e662ae5e83e769d42f6a141819769356"
     },
     {
       "path": "scripts/update_manifest.py",
-      "sha256": "6cee83954c38d792f86564334a5e93750a9842afe569fb4685a3f47def392352"
+      "sha256": "45ae03f10349daebab98b6eb9a0836b7e2d15a48ca5504277c80ec7d4c633d12"
     },
     {
       "path": "scripts/release_gate.py",
@@ -72,7 +70,7 @@
     },
     {
       "path": "repro/run_repro.sh",
-      "sha256": "8bfad75ed20a34f4e166c4194ef71799991d99c18b877e0f3372a7b16b4361d4"
+      "sha256": "cb76c324a350563bd0a03c65a91ed51bc70e850ddd03762dd1d6491497421ba1"
     },
     {
       "path": "repro/REPRO_PACK.md",
@@ -105,10 +103,8 @@
     {
       "path": "repro/certificate_baseline.json",
       "sha256": "8ff2f86c68fb545fd26ce4a3b63c360adb482b4da839bd0ff436dc838b66604a"
-    },
-    {
-      "path": "repro/certificate_runtime.json",
-      "sha256": "8ff2f86c68fb545fd26ce4a3b63c360adb482b4da839bd0ff436dc838b66604a"
     }
-  ]
+  ],
+  "generated_utc": "2026-05-10T05:17:15Z",
+  "schema_version": "2026-03-05"
 }
